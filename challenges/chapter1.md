@@ -119,3 +119,30 @@ op:
 - '-'
 - '*'
 ```
+
+---
+
+## Insert challenge title here
+
+```yaml
+type: OutputChallenge
+key: b58dcc17bb
+```
+
+`@context`
+
+
+`@code1`
+```{python}
+print("Hello world.")
+```
+
+`@pre_challenge_code`
+```{python}
+
+```
+
+`@variables`
+```yaml
+
+```
