@@ -130,7 +130,7 @@ key: b58dcc17bb
 ```
 
 `@context`
-
+This is a test challenge.
 
 `@code1`
 ```{python}
@@ -139,7 +139,7 @@ print("Hello world.")
 
 `@pre_challenge_code`
 ```{python}
-
+Pre-challenge code here.
 ```
 
 `@variables`
